@@ -1,2 +1,2 @@
 # logBB_prediction
-code about work on logBB prediction
+Работа выполнена Прониным Михаилом. Представлены презентация и описание проекта, его код.
